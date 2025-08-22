@@ -1,0 +1,3 @@
+transformers>=4.40,<5
+torch>=2.1
+bertviz>=1.4.0
