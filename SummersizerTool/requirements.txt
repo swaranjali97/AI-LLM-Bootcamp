@@ -1,0 +1,7 @@
+# Core dependencies for LLaMA Summarizer CLI
+torch
+transformers
+accelerate
+sentencepiece
+argparse
+

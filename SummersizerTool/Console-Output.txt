@@ -1,0 +1,15 @@
+
+=== Summary ===
+ 
+[INST] <<SYS>>
+You are a helpful assistant that writes extremely concise, faithful summaries.
+<</SYS>>
+ 
+Summarize the following text concisely in 2-4 sentences.
+ 
+AI helps automate tasks in education [/INST]  AI is being increasingly used in education to automate various tasks, such as grading, data analysis, and personalized learning. AI-powered tools can help teachers save time and effort, allowing them to focus on more important tasks like lesson planning and student support. By automating routine tasks, AI can also help improve the accuracy and consistency of grading, and provide more detailed and personalized feedback to students. Additionally, AI can help identify learning gaps and provide tailored recommendations for individual students, enabling more effective and efficient learning.
+ 
+===============
+ 
+ 
+(venv) D:\AI_Bootcamp\SummersizerTool>
